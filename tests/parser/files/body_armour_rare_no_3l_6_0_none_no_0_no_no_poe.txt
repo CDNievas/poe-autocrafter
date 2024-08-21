@@ -1,0 +1,25 @@
+Item Class: Body Armours
+Rarity: Rare
+Foe Suit
+Crypt Armour
+--------
+Evasion Rating: 396 (augmented)
+Energy Shield: 81 (augmented)
+--------
+Requirements:
+Level: 56
+Dex: 82
+Int: 82
+--------
+Sockets: R-G B-B-B B 
+--------
+Item Level: 69
+--------
++28 to Intelligence
+27% increased Evasion and Energy Shield
++101 to maximum Life
++6% to Fire Resistance
+37% increased Stun and Block Recovery
+Reflects 12 Physical Damage to Melee Attackers
+--------
+Note: ~price 1 alch

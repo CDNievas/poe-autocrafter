@@ -1,0 +1,33 @@
+Item Class: Two Hand Axes
+Rarity: Rare
+Carrion Song
+Talon Axe
+--------
+Two Handed Axe
+Quality: +20% (augmented)
+Physical Damage: 362-588 (augmented)
+Critical Strike Chance: 7.50% (augmented)
+Attacks per Second: 1.45 (augmented)
+Weapon Range: 1.3 metres
+--------
+Requirements:
+Level: 64
+Str: 140
+Dex: 67
+--------
+Sockets: R-G-R-G-R-R 
+--------
+Item Level: 78
+--------
+50% increased Critical Strike Chance (implicit)
+--------
+21% increased Attack Speed (fractured)
+48% increased Physical Damage
++113 to Accuracy Rating
+Can have up to 3 Crafted Modifiers (crafted)
+129% increased Physical Damage (crafted)
+Adds 21 to 39 Physical Damage (crafted)
+--------
+Fractured Item
+--------
+Note: ~price 3 divine

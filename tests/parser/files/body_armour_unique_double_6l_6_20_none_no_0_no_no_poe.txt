@@ -1,0 +1,35 @@
+Item Class: Body Armours
+Rarity: Unique
+Incandescent Heart
+Saintly Chainmail
+--------
+Quality: +20% (augmented)
+Armour: 1806 (augmented)
+Energy Shield: 431 (augmented)
+--------
+Requirements:
+Level: 70
+Str: 99
+Int: 115
+--------
+Sockets: B-R-B-R-B-B 
+--------
+Item Level: 80
+--------
++2 to Level of Socketed Aura Gems (implicit)
++2 to Level of Socketed Curse Gems (implicit)
+--------
+239% increased Armour and Energy Shield
++82 to maximum Life
+0.96% of Attack Damage Leeched as Life
+Gain 20% of Elemental Damage as Extra Chaos Damage
+25% of Elemental Damage from Hits taken as Chaos Damage
+28% increased Light Radius
+Light Radius is based on Energy Shield instead of Life
+--------
+Only light may banish the shadows from this land
+And the black lies wrapped around your heart
+--------
+Corrupted
+--------
+Note: ~price 999 mirror

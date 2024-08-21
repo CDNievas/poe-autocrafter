@@ -1,0 +1,36 @@
+Item Class: Two Hand Swords
+Rarity: Unique
+Rakiata's Dance
+Engraved Greatsword
+--------
+Two Handed Sword
+Quality: +20% (augmented)
+Physical Damage: 49-102
+Elemental Damage: 187-312 (augmented), 1-557 (augmented)
+Critical Strike Chance: 5.00%
+Attacks per Second: 1.59 (augmented)
+Weapon Range: 1.3 metres
+--------
+Requirements:
+Level: 48
+Str: 91
+Dex: 76
+--------
+Sockets: G-G-R-R-R-G 
+--------
+Item Level: 71
+--------
+Quality does not increase Physical Damage (enchant)
+1% increased Attack Speed per 8% Quality (enchant)
+--------
+Socketed Gems are Supported by Level 10 Momentum (implicit)
+Socketed Gems are Supported by Level 10 Fortify (implicit)
+--------
+Adds 187 to 312 Cold Damage
+Adds 1 to 557 Lightning Damage
+20% increased Attack Speed
+Treats Enemy Monster Elemental Resistance values as inverted
+--------
+In the shifting reflections of the sea, the truth of the soul can be seen.
+--------
+Corrupted

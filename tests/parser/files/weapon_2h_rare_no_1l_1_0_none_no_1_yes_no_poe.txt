@@ -1,0 +1,31 @@
+Item Class: Two Hand Axes
+Rarity: Rare
+Honour Splitter
+Vaal Axe
+--------
+Two Handed Axe
+Physical Damage: 202-338 (augmented)
+Elemental Damage: 4-7 (augmented), 2-6 (augmented)
+Critical Strike Chance: 5.65% (augmented)
+Attacks per Second: 1.27 (augmented)
+Weapon Range: 1.3 metres
+--------
+Requirements:
+Level: 64
+Str: 158
+Dex: 76
+--------
+Sockets: R 
+--------
+Item Level: 66
+--------
+25% chance to Maim on Hit (implicit)
+--------
+94% increased Physical Damage
+Adds 4 to 7 Fire Damage
+Adds 2 to 6 Cold Damage
+13% increased Critical Strike Chance
++16% to Cold Resistance
+10% increased Attack Speed (crafted)
+--------
+Note: ~price 1 chaos

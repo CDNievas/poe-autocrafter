@@ -1,0 +1,25 @@
+Item Class: Two Hand Axes
+Rarity: Rare
+Tempest Song
+Karui Chopper
+--------
+Two Handed Axe
+Physical Damage: 133-213 (augmented)
+Critical Strike Chance: 5.00%
+Attacks per Second: 1.05
+Weapon Range: 1.3 metres
+--------
+Requirements:
+Level: 58
+Str: 102 (augmented)
+Dex: 29 (augmented)
+--------
+Sockets: R-R-R G-B-R 
+--------
+Item Level: 73
+--------
+32% reduced Attribute Requirements
+Adds 12 to 24 Physical Damage
+19% increased Global Accuracy Rating
+7% reduced Enemy Stun Threshold
+15% increased Light Radius

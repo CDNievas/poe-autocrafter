@@ -1,0 +1,24 @@
+Item Class: Body Armours
+Rarity: Rare
+Pain Shell
+Assassin's Garb
+--------
+Evasion Rating: 1379 (augmented)
+--------
+Requirements:
+Level: 68
+Dex: 183
+--------
+Sockets: G 
+--------
+Item Level: 72
+--------
+3% increased Movement Speed (implicit)
+--------
++89 to Evasion Rating
+60% increased Evasion Rating
++31 to maximum Life
++34% to Lightning Resistance
++12% to Chaos Resistance
++18% to Lightning and Chaos Resistances
++51 to maximum Life (crafted)

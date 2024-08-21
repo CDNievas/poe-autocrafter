@@ -1,0 +1,34 @@
+Item Class: Body Armours
+Rarity: Rare
+Foe Suit
+Lacquered Garb
+--------
+Quality: +20% (augmented)
+Evasion Rating: 377 (augmented)
+Energy Shield: 78 (augmented)
+--------
+Requirements:
+Level: 68
+Dex: 76
+Int: 76
+--------
+Sockets: B-R-B-B-B-B 
+--------
+Item Level: 86
+--------
+8% increased Mana Recovery rate (implicit)
+9% of Damage taken Recouped as Life (implicit)
+--------
++71 to maximum Mana (fractured)
++22% chance to Suppress Spell Damage
++177 to maximum Life
+Can have up to 3 Crafted Modifiers (crafted)
++27 to Dexterity (crafted)
+8% increased maximum Life (crafted)
+7% increased maximum Mana (crafted)
+Searing Exarch Item
+Eater of Worlds Item
+--------
+Fractured Item
+--------
+Note: ~price 10 divine
